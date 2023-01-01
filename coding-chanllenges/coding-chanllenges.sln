@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coding-chanllenges", "coding-chanllenges.csproj", "{AE04D99A-EA4C-4D19-B70D-A55E61BF9B3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coding-challenges-tests", "..\coding-challenges-tests\coding-challenges-tests.csproj", "{ECFD0700-BD5D-4E5F-AEAB-0B0BB4CCBCCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE04D99A-EA4C-4D19-B70D-A55E61BF9B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE04D99A-EA4C-4D19-B70D-A55E61BF9B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE04D99A-EA4C-4D19-B70D-A55E61BF9B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE04D99A-EA4C-4D19-B70D-A55E61BF9B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECFD0700-BD5D-4E5F-AEAB-0B0BB4CCBCCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECFD0700-BD5D-4E5F-AEAB-0B0BB4CCBCCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECFD0700-BD5D-4E5F-AEAB-0B0BB4CCBCCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFD0700-BD5D-4E5F-AEAB-0B0BB4CCBCCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE461A79-7551-4177-BC15-F4F2A9E60985}
+	EndGlobalSection
+EndGlobal
